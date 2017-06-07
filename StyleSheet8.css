@@ -119,6 +119,21 @@ a{
     z-index:-1;
 }
 
+/*
+    Content2
+*/
+#section .intro{
+    text-align:center;
+    font-family: 'KoPub Batang', serif;
+    margin:100px 20px;
+}
+#section .intro h2{
+    font-size:2.2em;
+    font-weight:800;
+}
+#section .intro p{
+    font-size:1.5em;
+}
 
 
 /*footer*/
